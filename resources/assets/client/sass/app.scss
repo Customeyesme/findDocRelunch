@@ -1,0 +1,16 @@
+@import "all.css";
+@import "materialize.css";
+@import "~font-awesome/scss/font-awesome";
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+
+.help-block-error{
+    color: #e73d4a;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+}
